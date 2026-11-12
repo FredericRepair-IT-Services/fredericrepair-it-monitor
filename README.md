@@ -238,5 +238,4 @@ Licence
 
 FredericRepair IT Monitor est distribué sous licence Apache 2.0.
 
-FredericRepair IT Services — Building reliable technology solutions.# fredericrepair-it-monitor
-Open-source IT monitoring platform for servers, networks, websites, and devices, developed by FredericRepair IT Services in Canada.
+FredericRepair IT Services — Building reliable technology solutions.
